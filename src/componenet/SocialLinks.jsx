@@ -16,7 +16,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30}/>
              </>
         ),
-        href: "https://linkedin.com",
+        href: "https://www.linkedin.com/in/emmanuel-kawekwune-75201a232",
         style: 'rounded-tr-md'
         },
          {
@@ -36,7 +36,7 @@ const SocialLinks = () => {
                 Mail <HiOutlineMail size={30}/>
              </>
         ),
-        href: "mailto:nuelfelix2001@gmail.com",
+        href: "mailto:kawekwuneemmanuel2001@gmail.com",
         
         },
          {
@@ -46,7 +46,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
              </>
         ),
-        href: "/resume.pdf",
+        href: "/second frontend.pdf",
         style: 'rounded-br-md',
         download: true
         }

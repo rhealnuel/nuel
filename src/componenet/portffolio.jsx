@@ -23,7 +23,8 @@ const Portfolio = () => {
         {
             id:3,
             src: navbar,
-            link: "https://rhealnuel.github.io/business-app/"
+            link: "https://rhealnuel.github.io/business-app/",
+            
         },
         {
             id:4,
